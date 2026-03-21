@@ -1,0 +1,29 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Generated outputs (committed examples are in output/examples/)
+output/forecast_report.md
+output/cashflow_chart.png
+
+# Generated data (re-create with generate_data.py)
+data/vendors.csv
+data/open_invoices.csv
+data/payment_history.csv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
