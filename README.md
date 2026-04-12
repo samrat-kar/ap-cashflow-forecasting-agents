@@ -4,6 +4,10 @@ A multi-agent AI system that forecasts upcoming Accounts Payable (AP) cash outfl
 
 Built as a submission for the **Mastering AI Agents Certification Program** by ReadyTensor.
 
+## Links
+
+- Publication: [AP Cash Flow Forecasting Multi-Agent System](https://app.readytensor.ai/publications/ap-cash-flow-forecasting-multi-agent-system-OVrtAS68NZ4k)
+
 ---
 
 ## Demo Output
